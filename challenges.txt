@@ -1,0 +1,10 @@
+Challenges:
+	The hardest part for me was optimizing the whole pipeline.Spend a whole day trying to
+	filtering out unwanted lines's data from hough_line. 
+	About the challenge, Idon't have much time left to work on it, but  I have a guess 
+	that problem is coming up from Canny edge detection, mainly. Since it mixes the 
+	edges from all sort of lines in the image. However, again filtering must be a 
+	challenge too. 
+	Curious to know how we should optimize it.
+	
+	Thanks! :)
