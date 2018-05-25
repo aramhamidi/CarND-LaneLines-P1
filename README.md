@@ -1,7 +1,6 @@
 
 # **Finding Lane Lines on the Road** 
 
-
 In this project we use tools such as color selection, region of interest selection, grayscaling, Gaussian smoothing, Canny Edge Detection and Hough Tranform to detect lane lines. 
 
 ---
@@ -492,4 +491,4 @@ with the old average slope.  Although now my algorithm works fine with pictures 
 am not sure why in only the very first frame of my white and yello video, at the very begining one the 
 lines is a bit off. 
 
-
+All the code is available in p1 Notebook file.
